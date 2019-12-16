@@ -10,7 +10,7 @@ description: "Colin But Solutions Company Website - delivering first class Softw
 # Team names, titles and social links
 people:
 - name: Colin But
-  pic: 1
+  pic: me_linkedin
   position: Lead DevOps Engineer
   social:
     - title: twitter
@@ -21,7 +21,7 @@ people:
       url: #
 
 - name: Colin But
-  pic: 2
+  pic: me_linkedin
   position: Founder & Director
   social:
     - title: twitter
@@ -32,7 +32,7 @@ people:
       url: #
 
 - name: Colin But
-  pic: 3
+  pic: me_linkedin
   position: Software Developer
   social:
     - title: twitter
