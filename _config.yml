@@ -17,8 +17,8 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: stack-overflow
-      url: #
+    - title: github
+      url: https://github.com/colinbut/
 
 - name: Colin But
   pic: me_linkedin
@@ -39,8 +39,8 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
-      url: #
+    - title: github
+      url: https://github.com/colinbut/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Flat 123, My House
+  - line: London, UK
 
 # Build settings
 markdown: kramdown
