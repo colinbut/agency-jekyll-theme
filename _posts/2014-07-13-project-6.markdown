@@ -8,8 +8,13 @@ img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: August 2019
-client: Start Bootstrap
+client: Personal
 category: Cloud Engineering
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Showcase the full 'DevOps' mantra of builing, running, and operating a microservice on the AWS cloud on various different Compute Services. Incl. on virtualized EC2 instances using non-containerized microservices, EC2 instances running Docker supporting microservices packaged in a Docker container, ECS running on EC2 compute services and also ECS Fargate. Moreover, microservices running inside Docker containers within EKS, AWS's managed Kubernetes service. Additionally, also demonstrates running microservies on more high level PAAS offerings such as Elastic Beanstalk. 
 
+Project comes bundled with additional side projects which showcases individual aspect of the DevOps lifecycle and certain DevOps features. For example, sub-projects showcase the automation deployment of microservices to those various AWS compute services. Also, Terraform configuration on how to implement the Infrastructure as Code philosophy in the area of provisioning infrastructure repeatedly. 
+
+Other minor sub-projects consists of a Jenkins Build Container project which gives a library of various different kind of "Build Containers" to use on Jenkins for this parent project. And, using Packer to build custom AWS AMIs for use in other related side sub-projects within this parent project.
+
+checkout the Github repo at - https://github.com/colinbut/microservice-aws-demo.git
 ---

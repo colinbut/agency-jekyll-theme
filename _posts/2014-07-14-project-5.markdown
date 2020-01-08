@@ -8,8 +8,15 @@ img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 project-date: July 2015
-client: Start Bootstrap
+client: Personal
 category: Application Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: A simple full-stack MVC Java/JavaEE Spring Framework demo web application which aimed at showcasing the common basic Spring Framework + Java/JavaEE features with other topics expanded. Backend written in Java, using a variety of JavaEE technologies (JAXRS, JPA, JMS, JSP, JSTL). Hibernate acts as the reference implementation of JPA for ORM. Connects to a relational MySQL database. JSP serves up frontend's HTML pages combined with CSS, JavaScript, and a bit of JQuery to give a classical web app look and feel to it.
 
+Typical monolithic java application in nature, containing unit tests using JUnit with Mockito as the mocking framework, Integration tests done with assist of an embedded database. Can choose from HyperSQL, H2, Derby. End to End testing done in terms of BDD trialled with Cucumber JVM. At the core of this project demonstrates various different software design & architecture patterns also. From simple classical design patterns to higher level architectural patterns in MVC and 3-Layered architecture (Presentation>Service>DataAccess).
+
+Bells and wistles offering in Lombok a boilerplate code reducer library aimed at auto-generating common getter/setters/equals/hashcode etc of POJOs. Support for static code analysis in SonarQube. As well as relational database, the concept of this project connecting to a NoSQL datastore in MongoDB was explored.
+
+Many other features so checkout my Github repo at - https://github.com/colinbut/sales-order-system.git
+
+Overall this project of mines was very inspired by Spring's own demo project - Pet Clinic.
 ---
