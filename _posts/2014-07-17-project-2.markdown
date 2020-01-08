@@ -10,6 +10,6 @@ alt: image-alt
 project-date: January 2020
 client: Personal
 category: Infrastructure As Code
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: This project includes the creation of an EC2 instance on AWS where the infrastructure provisioning is modelled using Terraform configuration scripts and is stored in a VCS which demonstrates the philosophy of implementing Infrastructure as Code (IAC).
 
 ---
