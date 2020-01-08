@@ -10,6 +10,6 @@ alt: image-alt
 project-date: October 2019
 client: Personal
 category: Deployment Automation
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Using Ansible - an IT automation tool; to automate the deployment of a microservice onto AWS EC2 instances.
 
 ---
