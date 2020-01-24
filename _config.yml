@@ -14,9 +14,9 @@ people:
   position: Lead DevOps Engineer
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/Colin_But
     - title: facebook
-      url: #
+      url: https://www.facebook.com/colin.but
     - title: github
       url: https://github.com/colinbut/
 
@@ -25,20 +25,20 @@ people:
   position: Founder & Director
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/Colin_But
     - title: facebook
-      url: #
+      url: https://www.facebook.com/colin.but
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/colinbut/
 
 - name: Colin But
   pic: me3
   position: Software Developer
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/Colin_But
     - title: facebook
-      url: #
+      url: https://www.facebook.com/colin.but
     - title: github
       url: https://github.com/colinbut/
 
