@@ -4,8 +4,8 @@ subtitle: Pipeline As Code
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: ci-cd-jenkins.png
+thumbnail: ci-cd-jenkins-thumbnail.png
 alt: image-alt
 project-date: January 2020
 client: Personal
