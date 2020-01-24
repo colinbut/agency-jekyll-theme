@@ -10,6 +10,6 @@ alt: image-alt
 project-date: October 2019
 client: Personal
 category: Deployment Automation
-description: Using Ansible - an IT automation tool; to automate the deployment of a microservice onto AWS EC2 instances.
+description: Using Ansible - an IT automation tool; to automate the deployment of a containerized microservice in a Docker container onto AWS EC2 instances running Docker.
 
 ---

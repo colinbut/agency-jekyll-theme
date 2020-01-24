@@ -10,6 +10,6 @@ alt: image-alt
 project-date: January 2020
 client: Personal
 category: Pipeline As Code
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: A library of different examples of CI/CD build pipelines for use in Jenkins (the Automation Server). The Jenkins pipelines are themselves written in Jenkinsfile and is stored in a Version Control System (VCS) - in this case; Git. Thus, demonstrates Pipeline as Code in action.
 
 ---
