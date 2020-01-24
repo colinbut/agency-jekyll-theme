@@ -1,5 +1,5 @@
 ---
-title: Microservice AWS EC2 Docker Setup
+title: μservice AWS EC2 Docker Setup
 subtitle: Infrastructure As Code
 layout: default
 modal-id: 2

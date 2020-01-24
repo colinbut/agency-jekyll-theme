@@ -1,5 +1,5 @@
 ---
-title: Microservice AWS Demo
+title: μservice AWS Demo
 subtitle: Cloud Engineering
 layout: default
 modal-id: 6

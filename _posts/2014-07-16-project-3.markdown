@@ -1,5 +1,5 @@
 ---
-title: Microservice AWS EC2 Docker Deployment
+title: μservice AWS EC2 Docker Deployment
 subtitle: Deployment Automation
 layout: default
 modal-id: 3
