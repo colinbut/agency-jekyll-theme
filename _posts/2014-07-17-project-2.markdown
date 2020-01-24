@@ -1,11 +1,11 @@
 ---
-title: Microservice AWS EC2 Setup
+title: Microservice AWS EC2 Docker Setup
 subtitle: Infrastructure As Code
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: microservice-aws-ec2-docker-setup.png
+thumbnail: microservice-aws-ec2-docker-setup-thumbnail.png
 alt: image-alt
 project-date: January 2020
 client: Personal

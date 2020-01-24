@@ -4,7 +4,7 @@ subtitle: Deployment Automation
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
+img: microservice-aws-ec2-docker-deployment.png
 thumbnail: microservice-aws-ec2-docker-deployment-thumbnail.png
 alt: image-alt
 project-date: October 2019

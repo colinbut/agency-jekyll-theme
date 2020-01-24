@@ -4,8 +4,8 @@ subtitle: Cloud Engineering
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: microservice-aws-demo.png
+thumbnail: microservice-aws-demo-thumbnail.png
 alt: image-alt
 project-date: August 2019
 client: Personal
