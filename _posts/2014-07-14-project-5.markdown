@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 2014-07-14
 img: sales-order-system-2-system-arch.png
-thumbnail: sales-order-system-2-system-arch.png
+thumbnail: sales-order-system-2-system-arch-thumbnail.png
 alt: image-alt
 project-date: March 2020
 client: Personal
