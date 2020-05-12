@@ -1,5 +1,5 @@
 ---
-title: Sales Order System
+title: Sales Order System 2
 subtitle: Application Development
 layout: default
 modal-id: 5
